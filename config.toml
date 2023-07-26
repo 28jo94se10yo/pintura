@@ -1,0 +1,7 @@
+[theme]
+primaryColor = '#800000'       # Color bordo (#800000)
+backgroundColor = '#F5F5DC'   # Color beige (#F5F5DC)
+secondaryBackgroundColor = '#FFFFFF'  # Blanco (#FFFFFF)
+textColor = '#800000'         # Color bordo (#800000)
+font = "sans serif"
+
